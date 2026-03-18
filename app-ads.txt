@@ -1,6 +1,10 @@
 # Google
 google.com, pub-6147362264763943, DIRECT, f08c47fec0942fa0
 
+# Meta
+facebook.com, 1425216782085071, RESELLER, c3e20eee3f780d68
+facebook.com, 1234303138845670, DIRECT
+
 # Unity
 sharethrough.com, ibazay96, RESELLER, d53b998a7bd4ecd2
 ushareit.com, lcb555b3bc8667a09a, RESELLER
